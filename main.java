@@ -2,7 +2,7 @@
 package cs150.project.pkg1;
 
 
-public class CS150Project1 {
+public class main {
 
 
     public static void main(String[] args) {
